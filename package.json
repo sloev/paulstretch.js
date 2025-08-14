@@ -1,21 +1,15 @@
 {
   "name": "paulstretch",
-  "version": "0.2.0",
-  "author": "Sebastien Piquemal <sebpiq@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": ""
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
-    "ndfft": "0.0.x"
-  },
-  "devDependencies": {
-    "browserify": "^16.3.0",
-    "mocha": "1.12.x",
-    "pcm-boilerplate": "*",
-    "underscore": "1.12.x"
-  },
-  "engines": {
-    "node": ">=10"
+    "ndfft": "^0.0.0"
   }
 }
