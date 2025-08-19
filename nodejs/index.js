@@ -1,7 +1,7 @@
 import fs from 'fs';
 import { Writable } from 'stream';
 
-import PaulStretch from '../src/index.js';
+import PaulStretch from '../index.js';
 
 import wav  from 'node-wav';
 import cliProgress from 'cli-progress';

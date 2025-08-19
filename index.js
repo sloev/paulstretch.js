@@ -1,7 +1,7 @@
 
-import * as utils from './utils.js';
-import * as blockHelpers from './block-helpers.js';
-import * as arrayHelpers from './array-helpers.js';
+import * as utils from './src/utils.js';
+import * as blockHelpers from './src/block-helpers.js';
+import * as arrayHelpers from './src/array-helpers.js';
 
 export class PaulStretch {
   
